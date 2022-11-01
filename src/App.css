@@ -1,0 +1,30 @@
+.App {
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  align-items: center;
+  background-color: green;
+  color: white;
+  display: flex;
+  font-size: 30px;
+  height: 100px;
+  justify-content: center;
+  margin-bottom: 40px;
+}
+
+.form-control {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-items: center;
+}
+
+.inputs {
+  display: flex;
+}
+
+.btns {
+  display: flex;
+}
