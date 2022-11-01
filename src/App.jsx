@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import './App.css';
 import Form from './Components/Form';
 import Timer from './Components/Timer';
-
+// 1
 class App extends Component {
   state = {
     minInput: '',
